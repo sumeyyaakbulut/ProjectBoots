@@ -7,3 +7,5 @@ With the onion design, the game shows what phases it should consist of.
 First, our rocket needs to fly. 
 Secondly, a collision check is performed. 
 Let's make the level progression system
+
+In the game, when you hit the wall or the ground, you die and continue from the part you left off.
