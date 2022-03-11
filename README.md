@@ -9,3 +9,4 @@ Secondly, a collision check is performed.
 Let's make the level progression system
 
 In the game, when you hit the wall or the ground, you die and continue from the part you left off.
+There are multiple sounds and particle systems in the game.
